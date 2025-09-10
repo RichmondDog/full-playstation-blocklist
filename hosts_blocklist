@@ -1,0 +1,80 @@
+# Blocklist for major gaming companies and networks
+# Last updated: 2025-09-10
+
+# PlayStation / Sony
+0.0.0.0 dau01.ps4.update.playstation.net
+0.0.0.0 dbr01.ps4.update.playstation.net
+0.0.0.0 dcn01.ps4.update.playstation.net
+0.0.0.0 deu01.ps4.update.playstation.net
+0.0.0.0 playstation.sony.akadns.net
+0.0.0.0 np.community.playstation.net
+0.0.0.0 auth.np.ac.playstation.net
+0.0.0.0 np.stun.playstation.net
+0.0.0.0 service.playstation.net
+0.0.0.0 manuals.playstation.net
+0.0.0.0 ps4-eb.ww.np.dl.playstation.net
+0.0.0.0 update.playstation.net
+0.0.0.0 np.dl.playstation.net
+0.0.0.0 crepo.ww.dl.playstation.net
+
+# Roblox
+0.0.0.0 ecsv2.roblox.com
+0.0.0.0 ncs.roblox.com
+0.0.0.0 client-telemetry.roblox.com
+0.0.0.0 presence.roblox.com
+0.0.0.0 metrics.roblox.com
+0.0.0.0 tracing.roblox.com
+0.0.0.0 lms.roblox.com
+0.0.0.0 upload.roblox.com
+
+# EA / Origin / FIFA
+0.0.0.0 ea.com
+0.0.0.0 origin.com
+0.0.0.0 api.ea.com
+0.0.0.0 cdn.origin.com
+0.0.0.0 updates.ea.com
+0.0.0.0 easports.com
+0.0.0.0 fifa.com
+0.0.0.0 fut.ea.com
+
+# Epic Games
+0.0.0.0 epicgames.com
+0.0.0.0 accounts.epicgames.com
+0.0.0.0 store.epicgames.com
+0.0.0.0 fortnite.com
+0.0.0.0 update.epicgames.com
+
+# Blizzard / Battle.net
+0.0.0.0 blizzard.com
+0.0.0.0 battle.net
+0.0.0.0 us.battle.net
+0.0.0.0 eu.battle.net
+0.0.0.0 launcher.battle.net
+
+# Minecraft / Microsoft / Xbox
+0.0.0.0 minecraft.net
+0.0.0.0 xbox.com
+0.0.0.0 xboxlive.com
+0.0.0.0 live.com
+0.0.0.0 gamepass.com
+0.0.0.0 family.microsoft.com
+
+# Riot Games
+0.0.0.0 riotgames.com
+0.0.0.0 auth.riotgames.com
+0.0.0.0 api.riotgames.com
+0.0.0.0 leagueoflegends.com
+0.0.0.0 wildrift.leagueoflegends.com
+
+# Steam / Valve
+0.0.0.0 steampowered.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 api.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 valve.com
+
+# Ubisoft
+0.0.0.0 ubisoft.com
+0.0.0.0 club.ubisoft.com
+0.0.0.0 uplay.ubisoft.com
+0.0.0.0 api.ubisoft.com
